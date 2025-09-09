@@ -1,13 +1,22 @@
-### Project Preview
+### 🖼️ Project Screenshots
 
-Here is a look at the main application interface:
+![Screenshot 1](./demo/1.png)
 
-![Main Page Screenshot](./demo/main-page.png)
+![Screenshot 2](./demo/2.png)
 
-And here is the login screen:
+![Screenshot 3](./demo/3.png)
 
-![Login Screen](./demo/login-screen.png)
+![Screenshot 4](./demo/4.png)
 
-<p align="center">
-  <img src="./demo/main-page.png" alt="Main Page Screenshot" width="80%">
-</p>
+### 🖼️ Project Screenshots
+
+<table align="center">
+  <tr>
+    <td><img src="./demo/1.png" alt="Screenshot 1" width="400"></td>
+    <td><img src="./demo/2.png" alt="Screenshot 2" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="./demo/3.png" alt="Screenshot 3" width="400"></td>
+    <td><img src="./demo/4.png" alt="Screenshot 4" width="400"></td>
+  </tr>
+</table>
