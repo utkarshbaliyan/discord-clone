@@ -1,6 +1,6 @@
 ### 🖼️ Project Screenshots
 
-![Screenshot 1](./demo/1.png)
+![Screenshot 1](./demo/Screenshot 2025-09-09 at 11.07.05 PM.png)
 
 ![Screenshot 2](./demo/2.png)
 
